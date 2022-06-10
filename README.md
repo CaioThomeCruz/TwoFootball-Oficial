@@ -1,4 +1,4 @@
-# ShadowPlayer
+# Twofootball
  Projeto PDM
 
-Membros: Kauê Pancotti Guimarães e Matheus Anthony de Moraes Silvestre
+Membros: Caio Thome Cruz e Giovanni Franco Canos
